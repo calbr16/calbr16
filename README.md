@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calbr16
 - 👀 I’m interested in fitness, cats, and medicine
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Full Stack Software Development (Java/Node.js/Express/Postgres)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My final growth spurts must have gone to my brain, because I'm only 5 ft 2
 
